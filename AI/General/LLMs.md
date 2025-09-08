@@ -8,3 +8,5 @@ LLM-модели функционируют как сложные механиз
 - [[Temperatures]]
 - [[Top-K]]
 - [[Top-P]]
+- [[Training]]
+- [[Tokens]]
