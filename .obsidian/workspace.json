@@ -11,10 +11,14 @@
             "id": "a120385d6864c065",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AI/Building Agents/RAG Implementation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG Implementation"
             }
           }
         ]
@@ -144,8 +148,19 @@
               "icon": "lucide-list",
               "title": "Outline of Benefits of Pretrained Models"
             }
+          },
+          {
+            "id": "d153852e537b947c",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,37 +175,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d0b8e859621c4ce9",
+  "active": "a120385d6864c065",
   "lastOpenFiles": [
-    "README.md",
-    "ai-knowledge/README.md",
-    "ai-knowledge",
-    "AI/Building Agents/Concepts/Chain of Thought.md",
-    "AI/Building Agents/Concepts/Step-Back prompting.md",
-    "AI/Building Agents/Concepts",
-    "AI/Building Agents/Concepts/Repetition Penalties.md",
-    "AI/General/LLM/Temperatures.md",
-    "AI/Building Agents/Concepts/Output Control.md",
-    "AI/Building Agents/Prompt Engineering.md",
-    "AI/General/LLMs.md",
-    "AI/General/Tokens.md",
+    "AI/Building Agents/RAG Impls/OpenAI Assistant API.md",
     "AI/General/LLM/Top-P.md",
     "AI/General/LLM/Top-K.md",
-    "AI/General/AGI.md",
+    "AI/General/LLM/Temperatures.md",
+    "AI/General/Inference.md",
+    "AI/Building Agents/RAG Implementation.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "AI/Building Agents/RAG.md",
+    "AI/Building Agents/RAG Impls/LlamaIndex.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "AI/Building Agents/RAG Impls/LangChain.md",
+    "AI/Building Agents/RAG Impls",
+    "AI/Building Agents/Untitled.md",
+    "AI/Building Agents/Concepts/Chucking.md",
+    "AI/HuggingFace Interesting models.md",
+    "README.md",
+    "ai-knowledge",
+    "AI/Building Agents/Concepts",
     "AI/General/LLM",
     "AI/Untitled",
-    "AI/Building Agents/RAG.md",
-    "AI/Building Agents/AI Agents Sum.md",
-    "AI/General/Training.md",
-    "AI/General/Inference.md",
-    "AI/General/Embeddings.md",
     "AI/Building Agents",
     "AI/General",
-    "Welcome.md",
-    "AI/Pre-trained Models/Benefits of Pretrained Models.md",
     "AI/Pre-trained Models",
     "AI"
   ]
