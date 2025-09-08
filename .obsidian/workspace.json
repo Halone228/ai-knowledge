@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "1e97702d46d37b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e1ecbc8e7a1e4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a120385d6864c065",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3acd932e993a22ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "abbf20031b57e65c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b8e859621c4ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dbd9fbad00a4a2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfe4422fb9588019",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72f9782313dba1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5217ae27d631734d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02871520fabcec92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "61359f90219a20cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "29c997168b2e159b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6bec6a1336b0545e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Pre-trained Models/Benefits of Pretrained Models.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Benefits of Pretrained Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d0b8e859621c4ce9",
+  "lastOpenFiles": [
+    "README.md",
+    "ai-knowledge/README.md",
+    "ai-knowledge",
+    "AI/Building Agents/Concepts/Chain of Thought.md",
+    "AI/Building Agents/Concepts/Step-Back prompting.md",
+    "AI/Building Agents/Concepts",
+    "AI/Building Agents/Concepts/Repetition Penalties.md",
+    "AI/General/LLM/Temperatures.md",
+    "AI/Building Agents/Concepts/Output Control.md",
+    "AI/Building Agents/Prompt Engineering.md",
+    "AI/General/LLMs.md",
+    "AI/General/Tokens.md",
+    "AI/General/LLM/Top-P.md",
+    "AI/General/LLM/Top-K.md",
+    "AI/General/AGI.md",
+    "AI/General/LLM",
+    "AI/Untitled",
+    "AI/Building Agents/RAG.md",
+    "AI/Building Agents/AI Agents Sum.md",
+    "AI/General/Training.md",
+    "AI/General/Inference.md",
+    "AI/General/Embeddings.md",
+    "AI/Building Agents",
+    "AI/General",
+    "Welcome.md",
+    "AI/Pre-trained Models/Benefits of Pretrained Models.md",
+    "AI/Pre-trained Models",
+    "AI"
+  ]
+}
